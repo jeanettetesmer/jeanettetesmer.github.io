@@ -1,0 +1,9 @@
+name: Jeanette Tesmer
+baseurl: http://jeanettetesmer.com/
+description: a portfolio
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: pygments
+
+exclude: ['README.md']
